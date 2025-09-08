@@ -1,7 +1,7 @@
 <h1> Desafio: Aprenda na Prática Programação Orientada a Objetos</h1>
 
 <h3> 📖 Sobre o Projeto:</h3>
-<p>Nesse projeto foi feito um fork do projeto original disponibilizado pela <strong><a href="https://web.digitalinnovation.one/">DIGITAL INNOVATION ONE</a></strong> para aprender na pratica o <strong>Paradigma de Orientação a Objetos</strong> (POO). Nele foi mantida a branch Main para ser usada como referência no desenvolvimento do Desafio, e 
+<p>Nesse projeto foi feito um fork do projeto original disponibilizado pela <strong><a href="https://web.digitalinnovation.one/">DIGITAL INNOVATION ONE</a></strong> para aprender na pratica o <strong>Paradigma de Orientação a Objetos</strong> (POO). Nele foi mantida a branch feita durante o fork para ser usada como referência no desenvolvimento do Desafio, e 
 criada a branch <a href="https://github.com/Kauan-Berti/desafio-poo-dio/tree/kauan-berti-desafio-poo-java">kauan-berti-desafio-poo-java</a> para o desenvolvimento.</p>
 <p>Durante o desenvolvimento foi seguido o passo a passo, adicionado comentários sobre cada parte do código. No final, fiz modificações na Main, onde adicioneie alguns métodos para que o usuário insira os dados.</p>
 
